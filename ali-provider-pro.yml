@@ -1,11 +1,4 @@
-server:
-  port: 8766
 
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8761/eureka
-      
 1904b:
   api-a:
     hi: pro,pro,pro hen six,six,six
